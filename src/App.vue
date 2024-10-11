@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your 뷰JS App"/>
-    <GreetingUser/>
+    <GreetingUser msg="Greeting User페이지입니다."/>
   </div>
 </template>
 
